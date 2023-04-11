@@ -1,0 +1,45 @@
+body{
+	background-color: cornsilk;
+	}
+.img{
+	height: 180px;
+	width: 160px;
+	margin-top: -760px;
+	margin-left: 505px;
+	margin: -210px 500px;
+	border-radius: 20%;
+}	
+div{
+	background-color: white;
+	border: 1px solid black;
+	padding: 12px;
+	width: 60%;
+	margin: 0 auto;
+}
+fieldset{
+	margin-bottom: 12px;
+}
+legend{
+	background-color: aquamarine;
+	padding: 5px;
+	border-radius: 20px;
+	font-weight: bold;
+}
+table, th , td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+thead{
+	background: aquamarine;
+}
+th{
+	padding: 15px 15px;
+	font-weight: 800;
+	text-transform: none;
+}
+tbody tr{
+	cursor: pointer;
+}
+tbody tr:hover{
+	background: rgb(143, 215, 243);
+}
